@@ -1,10 +1,10 @@
 <?php
 
-/******************************************/
-/* Pika CMS (C) 2015 Pika Software        */
-/* http://pikasoftware.com                */
-/* Advanced Goal Editor by Alex Clark 2019*/
-/******************************************/
+/***********************************************/
+/* Pika CMS (C) 2015 Pika Software             */
+/* http://pikasoftware.com                     */
+/* Advanced Goal Editor by Metatheria, LLC 2019*/
+/***********************************************/
 
 require_once('pika-danio.php');
 pika_init();
