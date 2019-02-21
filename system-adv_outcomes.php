@@ -4,6 +4,7 @@
 /* Pika CMS (C) 2015 Pika Software             */
 /* http://pikasoftware.com                     */
 /* Advanced Goal Editor by Metatheria, LLC 2019*/
+/* https://metatheria.solutions                */
 /***********************************************/
 
 require_once('pika-danio.php');
